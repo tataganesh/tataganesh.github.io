@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - tataganesh
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - tataganesh/Query-Efficient-Approx-to-improve-OCR
+  - tataganesh/HRV-edgedevice
+  - tataganesh/Calib-Sample-Prioritization
+  - tataganesh/TF-Serving-CNN-example
